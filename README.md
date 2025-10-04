@@ -1,16 +1,29 @@
-# note_apppp
+# Note App
 
-A new Flutter project.
+A simple, offline note-taking application built with Flutter.  
+This app allows users to **create, edit, and view tasks/notes** without an internet connection. All notes are stored locally using **Hive**.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- Create new notes/tasks
+- Edit existing notes
+- View all notes
+- Works completely offline (no internet required)
+- Lightweight and easy-to-use interface
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+
+You can add screenshots of your app from the `assets/images` folder. For example:
+
+![Home Screen](assets/images/home_screen.png)  
+![Add Note](assets/images/add_note.png)  
+![Edit Note](assets/images/edit_note.png)
+
+> Replace the filenames with the actual names of your screenshots.
+
+---
+
